@@ -44,7 +44,6 @@ setup(
     description='Loyverse API wrapper',
     url=HOMEPAGE,
     packages=find_packages("loyverse"),
-    package_dir = {"": "loyverse"},
     maintainer=MAINTAINER,
     maintainer_email=MAINTAINER_EMAIL,
     license=LICENSE,
